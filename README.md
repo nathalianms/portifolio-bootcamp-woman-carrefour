@@ -8,4 +8,4 @@ Iniciei meus estudos no dia 16 de fevereiro de 2022.
 
 #### Desafios já entregues:
 
-- Criando seu primeiro repositório no GitHub para compartilhar seu progresso, entregue dia 24/02/2022.
+- Criando seu primeiro repositório no GitHub para compartilhar seu progresso, entregue dia 23/02/2022.
