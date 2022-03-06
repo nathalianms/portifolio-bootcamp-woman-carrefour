@@ -22,7 +22,7 @@ namespace projeto_rpg_bootcamp.src.Entities
         }
         else
         {
-            return this.Name + " " + "Lançou uma magia de pouca amplitude com bônus de" + " " + Bonus;
+            return this.Name + " " + "que está no level" + " " + this.Level + " " + "e é um" + " " + this.HeroType + " " + "lançou uma magia de pouca potência com bônus de" + " " + Bonus;
         }
     }
 }

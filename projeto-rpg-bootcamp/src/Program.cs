@@ -10,11 +10,11 @@ namespace projeto_rpg_bootcamp
         {
             Knight Arus = new Knight("Arus", 23, "Knight");
             Wizard wizard = new Wizard("Jennica", 23, "White Wizard");
-            Darkness Kansas = new Darkness("Kansas", 103, "Kansas");
+            Darkness darkness = new Darkness("Kansas", 103, "Darkness");
 
-            Console.WriteLine(Arus.Attack(10));
+            Console.WriteLine(Arus.Attack(11));
             Console.WriteLine(wizard.Attack(4));
-            Console.WriteLine(Kansas.Attack(7));
+            Console.WriteLine(darkness.Attack(7));
         }
     }
 }
