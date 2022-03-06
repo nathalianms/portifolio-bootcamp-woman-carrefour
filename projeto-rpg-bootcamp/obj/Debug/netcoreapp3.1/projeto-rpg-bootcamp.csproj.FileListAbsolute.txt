@@ -1,0 +1,13 @@
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\bin\Debug\netcoreapp3.1\projeto-rpg-bootcamp.exe
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\bin\Debug\netcoreapp3.1\projeto-rpg-bootcamp.deps.json
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\bin\Debug\netcoreapp3.1\projeto-rpg-bootcamp.runtimeconfig.json
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\bin\Debug\netcoreapp3.1\projeto-rpg-bootcamp.runtimeconfig.dev.json
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\bin\Debug\netcoreapp3.1\projeto-rpg-bootcamp.dll
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\bin\Debug\netcoreapp3.1\projeto-rpg-bootcamp.pdb
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\obj\Debug\netcoreapp3.1\projeto-rpg-bootcamp.csprojAssemblyReference.cache
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\obj\Debug\netcoreapp3.1\projeto-rpg-bootcamp.AssemblyInfoInputs.cache
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\obj\Debug\netcoreapp3.1\projeto-rpg-bootcamp.AssemblyInfo.cs
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\obj\Debug\netcoreapp3.1\projeto-rpg-bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\obj\Debug\netcoreapp3.1\projeto-rpg-bootcamp.dll
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\obj\Debug\netcoreapp3.1\projeto-rpg-bootcamp.pdb
+C:\Users\claqu\Desktop\Área de trabalho\portifolio-bootcamp-woman-carrefour\projeto-rpg-bootcamp\obj\Debug\netcoreapp3.1\projeto-rpg-bootcamp.genruntimeconfig.cache
